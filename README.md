@@ -1,2 +1,2 @@
-# gmod_permaban_sound
+# gmod_ulx_permaban_sound
  
